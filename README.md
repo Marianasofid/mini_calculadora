@@ -21,4 +21,4 @@ Introduce el primer número: 5
 Introduce el segundo número: 3
 El resultado de sumar es: 8
 ```
-!["programa de flujo"](programa.png "programa de Flujo")
+!["diagrama de flujo"](diagrama.png "diagrama de Flujo")
